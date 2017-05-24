@@ -1,14 +1,6 @@
-h2.intro {
-  font-weight: bolder;
+.intro {
   margin: auto;
+  padding: 50px;
   width: 70%;
-}
-p.intro {
-  font-style: italic;
-  margin: auto;
-  width: 70%;
-}
-img.intro {
-  display: block;
-  margin: auto;
+  background-color: lightcyan;
 }
