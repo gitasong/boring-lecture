@@ -1,0 +1,14 @@
+h2.intro {
+  font-weight: bolder;
+  margin: auto;
+  width: 70%;
+}
+p.intro {
+  font-style: italic;
+  margin: auto;
+  width: 70%;
+}
+img.intro {
+  display: block;
+  margin: auto;
+}
